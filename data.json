@@ -1,0 +1,22 @@
+[
+    {
+        "id" : "1",
+        "name" : "Sabir" ,
+        "age" : "20"
+    },
+    {
+        "id" : "2",
+        "name" : "Alisafa" ,
+        "age" : "19"
+    },
+    {
+        "id" : "3",
+        "name" : "Eynulla" ,
+        "age" : "18"
+    },
+    {
+        "id" : "4",
+        "name" : "Nicat" ,
+        "age" : "20"
+    }
+]
